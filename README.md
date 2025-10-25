@@ -1,6 +1,6 @@
-# Loki Project
+# Whoops
 
-The **Loki Project** is an implementation of a client aimed at recreating the classic experience of one of the most
+**Whoops** is an implementation of a client aimed at recreating the classic experience of one of the most
 iconic MMORPGs. This project is designed to maintain high fidelity to the original game while modernizing its internals
 for better performance and maintainability.
 
@@ -18,7 +18,7 @@ for better performance and maintainability.
 ## How to Build
 
 ```bash
-cmake -B build && cmake --build build --target Loki
+cmake -B build && cmake --build build --target whoops
 ```
 
 ## Special Thanks
