@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.20)
 
 # Project definition
-project(Loki LANGUAGES C CXX)
+project(whoops LANGUAGES C CXX)
 
 # Set the C++ standard
 set(CMAKE_CXX_STANDARD 20)
