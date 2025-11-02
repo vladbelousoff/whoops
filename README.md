@@ -28,7 +28,7 @@ dedication to the community and commitment to open-source software is deeply app
 
 ## Contributing
 
-Contributions are welcome! If you would like to help improve the Loki Project, please fork the repository and submit a
+Contributions are welcome! If you would like to help improve Whoops, please fork the repository and submit a
 pull request. Please ensure your code adheres to the project's coding standards.
 
 ## Copyright
